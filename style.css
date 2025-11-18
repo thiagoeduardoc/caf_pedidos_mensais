@@ -10,6 +10,7 @@ body {
 
 h1 {
     font-size: 1.8em; /* Adjust this value to make the title smaller or larger */
+    text-align: center;
 }
 
 .supplier {
